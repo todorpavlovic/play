@@ -1,0 +1,11 @@
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.deps.json
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net8.0\Play.Catalog.Contracts.pdb
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.AssemblyInfo.cs
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\refint\Play.Catalog.Contracts.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\Play.Catalog.Contracts.pdb
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net8.0\ref\Play.Catalog.Contracts.dll

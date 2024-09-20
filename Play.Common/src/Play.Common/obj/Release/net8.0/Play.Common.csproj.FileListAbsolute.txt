@@ -1,0 +1,12 @@
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.deps.json
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\bin\Release\net8.0\Play.Common.pdb
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.csproj.AssemblyReference.cache
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfoInputs.cache
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfo.cs
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\refint\Play.Common.dll
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\Play.Common.pdb
+C:\Users\TodorPavlovic\Desktop\Projects\Play\Play.Common\src\Play.Common\obj\Release\net8.0\ref\Play.Common.dll
